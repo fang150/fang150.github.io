@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Chih-Hao Fang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Purdue University"
+  bio              : "PhD in Computer Science at Purdue"
+  location         : "West Lafayette"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sdllvWcAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Chih_Hao_Fang"
