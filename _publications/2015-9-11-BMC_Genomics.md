@@ -3,7 +3,7 @@ title: "Subset selection of high-depth next generation sequencing reads for de n
 collection: publications
 permalink: /publication/2015_BMC_Genomics
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2015
+date: 2015-9-11
 venue: 'BMC Genomics'
 paperurl: 'https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-16-S12-S9'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
