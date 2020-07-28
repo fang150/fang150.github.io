@@ -2,7 +2,7 @@
 title: "Subset selection of high-depth next generation sequencing reads for de novos genome assembly using mapreduce framework."
 collection: publications
 permalink: /publication/2015_BMC_Genomics
-excerpt: 'This paper is about using Mapreduce Framework to select high-quality NGS reads for the de novo assembly.'
+excerpt: 'This paper is about using Mapreduce Framework to select high-quality NGS reads for the De novo whole-genome sequence assembly.'
 date: 2015-9-11
 venue: 'BMC Genomics'
 paperurl: 'https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-16-S12-S9'
