@@ -45,7 +45,7 @@ Awards
 * Memorial Scholarship to Mr. Lin Hsiung-Chen 2012.
   * *Presented to top 50 academically rated undergraduate students in Taiwan*
 * Calculus Gold Medal Award, National Central University, Taiwan, 2010.
-  * Won first place among 800 freshmen students at National Central University, Taiwan.
+  * *Won first place among 800 freshmen students at National Central University, Taiwan.*
 
 Publications
 ======
