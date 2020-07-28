@@ -1,10 +1,10 @@
 ---
 title: "Opening up the blackbox: an interpretable deep neural network-based classifier for cell-type specific enhancer predictions"
 collection: publications
-permalink: /publication/2016-08-01-BMC_Bioinformatics
+permalink: /publication/2016-08-01-BMC_System_Biology
 excerpt: 'This paper is about designing an interpretable deep neural network for enhancer prediction task.'
 date: 2016-08-01
-venue: 'Journal 1'
+venue: 'BMC System Biology'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4977478/'
 citation: #'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
