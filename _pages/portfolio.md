@@ -32,7 +32,10 @@ Useful Resources
 * [How to write a good review?](https://sites.google.com/view/making-reviews-great-again/) – CVPR 2020 Tutorial
 * [What's wrong with these equations](http://www.ai.mit.edu/courses/6.899/papers/mermin.pdf) — [David Mermin](http://www.lassp.cornell.edu/mermin/)
 * [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf) —  [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/)
-* [Notes on writing](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf) * [Fredo Durand](http://people.csail.mit.edu/fredo/)
+* [Notes on writing](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf) —  [Fredo Durand](http://people.csail.mit.edu/fredo/)
+* [How to Write a BAD Article](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf?fbclid=IwAR39_4qcLsJFHDOd4DZ5NZcJ3In2hm4PEKTDZN9fTXQsc2YMq2W8vWuIHYA) —  [Fredo Durand](http://people.csail.mit.edu/fredo/)
+* [How to Have Your Abstract Rejected
+](https://www.sigplan.org/Resources/Advice/VanLeunen-Lipton/?fbclid=IwAR1mOy18ktr9bDhllO2E4q90BgNThUrP7DWyTmXc3wEs8xhu6mFhhzd-9-o) —  [Mary-Claire van Leunen and Richard Lipton
 * [Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html) — [Jonathan
 Shewchuck](https://people.eecs.berkeley.edu/~jrs/) ([Oh! I happened to read his Intro to CG before.](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf))
 * [Ten Simple Rules for Mathematical Writing](http://www.robots.ox.ac.uk/~phst/Style/Ten_Rules.pdf) — [Dimitri Bertsekas](http://web.mit.edu/dimitrib/www/home.html)
