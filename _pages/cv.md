@@ -15,6 +15,7 @@ Education
   * Advisor : [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg)
 * B.S, Computer Science @ National Tsing Hua University, September 2010 - June 2013
   * Advisor : [Youn-Long Lin](http://www.cs.nthu.edu.tw/~ylin/)
+  
 Work experience
 ======
 * Research Assistant @ Purdue University
