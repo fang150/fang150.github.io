@@ -19,3 +19,4 @@ Book Chapter
 ======
 
 [Parallel Optimization Techniques for Machine Learning](https://link.springer.com/chapter/10.1007/978-3-030-43736-7_13). Springer. 2020
+  * *Higher order optimization techniques for convex and non-convex problems.*
