@@ -39,6 +39,7 @@ Useful Resources
 * [Three Sins of Authors in Computer Science and Math](http://www.cs.cmu.edu/~jrs/sins.html) — [Jonathan
 Shewchuck](https://people.eecs.berkeley.edu/~jrs/) ([Oh! I happened to read his Intro to CG before.](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf))
 * [Ten Simple Rules for Mathematical Writing](http://www.robots.ox.ac.uk/~phst/Style/Ten_Rules.pdf) — [Dimitri Bertsekas](http://web.mit.edu/dimitrib/www/home.html)
+* [How to present - Writing, Figures, Talks (MIT Deep Learning Genomics Lecture 22)](https://www.youtube.com/watch?v=KzyvIBjBkuc)
 
 Stuff I Feel Fun
 ======
