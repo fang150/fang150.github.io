@@ -31,6 +31,7 @@ Useful Resources
 * [Mathoverflow](https://mathoverflow.net/)
 * [How to write a good review?](https://sites.google.com/view/making-reviews-great-again/) – CVPR 2020 Tutorial
 * [What's wrong with these equations](http://www.ai.mit.edu/courses/6.899/papers/mermin.pdf) — [David Mermin](http://www.lassp.cornell.edu/mermin/)
+* [Organizing Academic Research Papers: Purpose of Guide](https://library.sacredheart.edu/c.php?g=29803)
 * [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf) —  [Aaron Hertzmann](https://www.dgp.toronto.edu/~hertzman/)
 * [Notes on writing](https://people.csail.mit.edu/fredo/PUBLI/writing.pdf) —  [Fredo Durand](http://people.csail.mit.edu/fredo/)
 * [How to Write a BAD Article](http://people.csail.mit.edu/fredo/FredoBadWriting.pdf?fbclid=IwAR39_4qcLsJFHDOd4DZ5NZcJ3In2hm4PEKTDZN9fTXQsc2YMq2W8vWuIHYA) —  [Fredo Durand](http://people.csail.mit.edu/fredo/)
