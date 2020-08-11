@@ -49,3 +49,4 @@ Stuff I Feel Fun
 * [Wow!! Richard Feynman already had advanced thoughts on how machines learn.](https://www.youtube.com/watch?v=ipRvjS7q1DI&t=879s)
 * [This is the exactly situation when I ask indefinite question to an expert.](https://www.youtube.com/watch?v=36GT2zI8lVA&t=17s)
 * [科學史沙龍】計算與數學思維│何建明](https://www.youtube.com/watch?v=yRUz1fI7NL0) -- [Jan-Ming Ho](https://www.iis.sinica.edu.tw/pages/hoho/vita_en.html)
+* [Stephen Boyd's tricks for analyzing convexity.](https://www.youtube.com/watch?v=ijD2KSXWDyo)
