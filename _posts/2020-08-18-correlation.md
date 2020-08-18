@@ -1,13 +1,12 @@
 ---
 title: "Why correlation is symmetric ?"
 date: 2020-08-18
-tags: [causality]
+tags: [math]
 categories: [foundation]
 excerpt: "Prove it simply by basic math."
 mathjax: "true"
 ---
 
-2020-08-18
 
 Why is the relation of positive correlation symmetric?
 
