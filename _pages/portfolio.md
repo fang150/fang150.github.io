@@ -5,6 +5,9 @@ permalink: /Resources/
 author_profile: true
 ---
 
+> I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me. -- [Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson).
+
+
 Blogs
 ======
 * [What's new](https://terrytao.wordpress.com/)

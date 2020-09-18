@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me. -- [Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson).
+
 > I don't have many failures. If I make a cake and it fails, it becomes a pudding. -- [Life Lessons From 100-Year-Olds](https://www.youtube.com/watch?v=9AThycGCakk)
 
 
