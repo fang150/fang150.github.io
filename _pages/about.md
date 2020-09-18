@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
+> I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me. -- [Ralph Waldo Emerson](https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson).
+> I don't have many failures. If I make a cake and it fails, it becomes a pudding. -- [Life Lessons From 100-Year-Olds](https://www.youtube.com/watch?v=9AThycGCakk)
 
 
 Chih-Hao Fang is a Ph.D. student under the supervision of  Prof. [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg) in computer science at [Purdue University](https://www.cs.purdue.edu/). Chih-Hao's research interests include Optimization, Machine Learning, and Causal Inference. Prior to joining Purdue University, Chih-Hao received his B.S in Computer Science from [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/) (2013) in Taiwan. After his graduation, Chih-Hao worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) (2015) in Taiwan, focusing on large-scale data analyses on Next-Generation Sequencing Data.
