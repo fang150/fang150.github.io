@@ -52,6 +52,6 @@ Stuff I Feel Fun
 * [Wow!! Richard Feynman already had advanced thoughts on how machines learn.](https://www.youtube.com/watch?v=ipRvjS7q1DI&t=879s)
 * [This is the exactly situation when I ask indefinite question to an expert.](https://www.youtube.com/watch?v=36GT2zI8lVA&t=17s)
 * [【科學史沙龍】計算與數學思維│何建明](https://www.youtube.com/watch?v=yRUz1fI7NL0) -- [Jan-Ming Ho](https://www.iis.sinica.edu.tw/pages/hoho/vita_en.html)
-* [【科學史沙龍】數學的故事 「Q&A沙龍時間」](https://www.youtube.com/watch?v=a5mW4aTLhRk) (Essence of Learning to Learn.)
+* [【科學史沙龍】數學的故事 「Q&A沙龍時間」](https://www.youtube.com/watch?v=a5mW4aTLhRk) (Essence of Learning to Learn. 禮記 學記篇 ：道而弗牽，強而弗抑，開而弗達。 道而弗牽則和，強而弗抑則易，開而弗達則思。)
 * [Stephen Boyd's tricks for analyzing convexity.](https://www.youtube.com/watch?v=ijD2KSXWDyo)
 * [What Grabs Your Interest - Prof. Jordan Peterson](https://www.youtube.com/watch?v=YFEC85zDwL4)
