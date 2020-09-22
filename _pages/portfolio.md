@@ -20,8 +20,7 @@ Blogs
 
 Useful Resources
 ======
-* [Meaning of Life](https://www.youtube.com/watch?v=ajlDioK-H6U&feature=emb_title) — [Eric Lander](https://www.broadinstitute.org/bios/eric-s-lander)
-* [【科學史沙龍】數學的故事 「Q&A沙龍時間」](https://www.youtube.com/watch?v=a5mW4aTLhRk) (Essence of Learning to Learn. 禮記 學記篇 ：道而弗牽，強而弗抑，開而弗達。 道而弗牽則和，強而弗抑則易，開而弗達則思。) 
+* [Meaning of Life](https://www.youtube.com/watch?v=ajlDioK-H6U&feature=emb_title) — [Eric Lander](https://www.broadinstitute.org/bios/eric-s-lander) 
 * [Problem Solving Strategies](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/) — [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao)
 * [Continually aim just beyond your current range](https://terrytao.wordpress.com/career-advice/continually-aim-just-beyond-your-current-range/) — [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao)
 * [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) — [Srinivasan Keshav](http://blizzard.cs.uwaterloo.ca/keshav/wiki/index.php/Main_Page)
