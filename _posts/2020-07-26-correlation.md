@@ -1,6 +1,6 @@
 ---
 title: "Why correlation is symmetric ?"
-date: 2020-08-18
+date: 2020-07-26
 tags: [math]
 categories: [foundation]
 excerpt: "Prove it simply by basic math."
