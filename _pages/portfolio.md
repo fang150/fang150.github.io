@@ -44,7 +44,7 @@ Useful Resources
 Shewchuck](https://people.eecs.berkeley.edu/~jrs/) ([Oh! I happened to read his Intro to CG before.](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf))
 * [Ten Simple Rules for Mathematical Writing](http://www.robots.ox.ac.uk/~phst/Style/Ten_Rules.pdf) — [Dimitri Bertsekas](http://web.mit.edu/dimitrib/www/home.html)
 * [How to present - Writing, Figures, Talks (MIT Deep Learning Genomics Lecture 22)](https://www.youtube.com/watch?v=KzyvIBjBkuc) [slides](https://www.dropbox.com/s/5cbodq3icvs3dqt/L22_HowToPresent.pdf?dl=0)
-* [Advice for Drafting a Pre-Submission Inquiry)](https://www.proof-reading-service.com/en/blog/free-sample-letter-and-advice-for-drafting-a-pre-submission-inquiry/)
+* [Advice for Drafting a Pre-Submission Inquiry](https://www.proof-reading-service.com/en/blog/free-sample-letter-and-advice-for-drafting-a-pre-submission-inquiry/)
 
 
 Stuff I Feel Fun
