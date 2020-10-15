@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-#> I don't have many failures. If I make a cake and it fails, it becomes a pudding. -- [Life Lessons From 100-Year-Olds](https://www.youtube.com/watch?v=9AThycGCakk)
+<!--- > I don't have many failures. If I make a cake and it fails, it becomes a pudding. -- [Life Lessons From 100-Year-Olds](https://www.youtube.com/watch?v=9AThycGCakk)] -->
 > The noblest pleasure is the joy of understanding. — Leonardo da Vinci
 
 
