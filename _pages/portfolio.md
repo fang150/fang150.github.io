@@ -55,6 +55,7 @@ Stuff I Feel Fun
 * [【科學史沙龍】計算與數學思維│何建明](https://www.youtube.com/watch?v=yRUz1fI7NL0) -- [Jan-Ming Ho](https://www.iis.sinica.edu.tw/pages/hoho/vita_en.html)
 * [Stephen Boyd's tricks for analyzing convexity.](https://www.youtube.com/watch?v=ijD2KSXWDyo)
 * [What Grabs Your Interest - Prof. Jordan Peterson](https://www.youtube.com/watch?v=YFEC85zDwL4)
+* [Alan Turing's favorite book](https://www.youtube.com/watch?v=zlQSHQXdQn4)
 
 Humanity
 ======
