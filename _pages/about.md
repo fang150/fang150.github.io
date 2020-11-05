@@ -16,7 +16,7 @@ Chih-Hao Fang is a Ph.D. student under the supervision of  Prof. [Ananth Grama](
 
 News
 ======
-* Forbes 30 Under 30 Healthcare Potential Candidate, 2020.
+* Forbes 30 Under 30 Potential Candidate in Healthcare Category. 2020.
 * Invited to serve as a reviewer of [ICDM](http://icdm2020.bigke.org/). 2020.
 * Book Chapter "[Parallel Optimization Techniques for Machine Learning](https://link.springer.com/chapter/10.1007/978-3-030-43736-7_13)". Springer. 2020
 * Received [Regenstrief Center for Healthcare Engineering (RCHE)](https://www.purdue.edu/discoverypark/rche/index.php) Student Scholarship, Purdue University. 2020 ([Tweet](https://twitter.com/Purdue_RCHE/status/1285289037620744192?s=20))
