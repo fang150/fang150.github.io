@@ -49,6 +49,7 @@ Shewchuck](https://people.eecs.berkeley.edu/~jrs/) ([Oh! I happened to read his 
 
 Stuff I Feel Fun
 ======
+* [Britannica Encyclopedia](https://www.britannica.com/)
 * [Creating The Never-Ending Bloom](https://www.youtube.com/watch?v=B5p2A5mazEs) — [John Edmark](http://www.johnedmark.com/)
 * [Wow!! Richard Feynman already had advanced thoughts on how machines learn.](https://www.youtube.com/watch?v=ipRvjS7q1DI&t=879s)
 * [This is the exactly situation when I ask indefinite question to an expert.](https://www.youtube.com/watch?v=36GT2zI8lVA&t=17s)
