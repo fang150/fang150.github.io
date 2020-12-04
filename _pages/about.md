@@ -10,13 +10,13 @@ redirect_from:
 
 
 <!--- > I don't have many failures. If I make a cake and it fails, it becomes a pudding. -- [Life Lessons From 100-Year-Olds](https://www.youtube.com/watch?v=9AThycGCakk)] -->
-> The noblest pleasure is the joy of understanding. — Leonardo da Vinci <br /> Altruism, Service, Purpose. — [Eric Lander](https://www.youtube.com/watch?v=ajlDioK-H6U&feature=emb_title)
+<!--- >  The noblest pleasure is the joy of understanding. — Leonardo da Vinci <br /> Altruism, Service, Purpose. — [Eric Lander](https://www.youtube.com/watch?v=ajlDioK-H6U&feature=emb_title) -->
 
 Chih-Hao Fang is a Ph.D. student under the supervision of  Prof. [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg) in computer science at [Purdue University](https://www.cs.purdue.edu/). Chih-Hao's research interests include Optimization, Machine Learning, and Causal Inference. Prior to joining Purdue University, Chih-Hao received his B.S in Computer Science from [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/) (2013) in Taiwan. After his graduation, Chih-Hao worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) (2015) in Taiwan, focusing on large-scale data analyses on Next-Generation Sequencing Data.
 
 News
 ======
-* Forbes 30 Under 30 Potential Candidate in Healthcare Category. 2020.
+<!--- >* Forbes 30 Under 30 Potential Candidate in Healthcare Category. 2020. -->
 * Invited to serve as a reviewer of [ICDM](http://icdm2020.bigke.org/). 2020.
 * Book Chapter "[Parallel Optimization Techniques for Machine Learning](https://link.springer.com/chapter/10.1007/978-3-030-43736-7_13)". Springer. 2020
 * Received [Regenstrief Center for Healthcare Engineering (RCHE)](https://www.purdue.edu/discoverypark/rche/index.php) Student Scholarship, Purdue University. 2020 ([Tweet](https://twitter.com/Purdue_RCHE/status/1285289037620744192?s=20))
