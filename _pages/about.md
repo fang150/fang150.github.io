@@ -18,7 +18,7 @@ Chih-Hao Fang is a Ph.D. student under the supervision of  Prof. [Ananth Grama](
 News
 ======
 * Featured article about our Distributed GPU-Accelerated Optimizer for Multiclass Classification Problems (TBA). 2020.
-* Became a Ph.D candidate in computer science at Purdue University. November,2020.
+* Officially became a Ph.D candidate in computer science at Purdue University. November, 2020.
 * Forbes 30 Under 30 Potential Candidate in Healthcare Category. 2020. 
 * Invited to serve as a reviewer of [ICDM](http://icdm2020.bigke.org/). 2020.
 * Book Chapter "[Parallel Optimization Techniques for Machine Learning](https://link.springer.com/chapter/10.1007/978-3-030-43736-7_13)". Springer. 2020
