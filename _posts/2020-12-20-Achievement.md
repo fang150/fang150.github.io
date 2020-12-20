@@ -17,7 +17,10 @@ I have met many great teachers in my life. One of them was my junior high school
 
 To Chih-Hao,
 
-The greatest achievement in life is finding out who you are and having the courage to be yourself -- June 2005.
+The greatest achievement in life is finding out who you are and having the courage to be yourself.
+
+
+June 2005.
 
 
 
