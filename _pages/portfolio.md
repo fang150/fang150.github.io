@@ -46,6 +46,7 @@ Shewchuck](https://people.eecs.berkeley.edu/~jrs/) ([Oh! I happened to read his 
 * [How to present - Writing, Figures, Talks (MIT Deep Learning Genomics Lecture 22)](https://www.youtube.com/watch?v=KzyvIBjBkuc) [slides](https://www.dropbox.com/s/5cbodq3icvs3dqt/L22_HowToPresent.pdf?dl=0)
 * [Advice for Drafting a Pre-Submission Inquiry](https://www.proof-reading-service.com/en/blog/free-sample-letter-and-advice-for-drafting-a-pre-submission-inquiry/)
 * [What kind of scientist are you?](https://www.natureindex.com/news-blog/what-kind-of-scientist-are-you)
+* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/info.html)
 
 Stuff I Feel Fun
 ======
