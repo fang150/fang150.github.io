@@ -18,7 +18,16 @@ Blogs
 * [Computational Complexity](https://blog.computationalcomplexity.org/)
 * [Machine Learning Research Blog](https://francisbach.com/)
 
-Useful Resources
+
+Virtual Talks
+======
+* [Foundations of Data Science - Virtual Talk Series](https://sites.google.com/view/dstheory/home)
+* [TCS+](https://sites.google.com/site/plustcs/home)
+* [Online Causal Inference Seminar](https://sites.google.com/view/ocis/home)
+
+
+
+Miscellaneous 
 ======
 * [Meaning of Life](https://www.youtube.com/watch?v=ajlDioK-H6U&feature=emb_title) — [Eric Lander](https://www.broadinstitute.org/bios/eric-s-lander) 
 * [Problem Solving Strategies](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/) — [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao)
