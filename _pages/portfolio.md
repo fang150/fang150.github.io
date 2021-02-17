@@ -17,6 +17,9 @@ Blogs
 * [Lil'Log](https://lilianweng.github.io/lil-log/)
 * [Computational Complexity](https://blog.computationalcomplexity.org/)
 * [Machine Learning Research Blog](https://francisbach.com/)
+* [Fairness Measures](https://fairnessmeasures.github.io/)
+
+
 
 
 Virtual Talks
