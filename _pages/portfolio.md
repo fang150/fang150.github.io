@@ -17,7 +17,7 @@ Blogs
 * [Lil'Log](https://lilianweng.github.io/lil-log/)
 * [Computational Complexity](https://blog.computationalcomplexity.org/)
 * [Machine Learning Research Blog](https://francisbach.com/)
-* [Fairness Measures](https://fairnessmeasures.github.io/)
+
 
 
 
@@ -28,6 +28,11 @@ Virtual Talks
 * [TCS+](https://sites.google.com/site/plustcs/home)
 * [Online Causal Inference Seminar](https://sites.google.com/view/ocis/home)
 
+
+Fairness
+======
+* [Fairness Measures](https://fairnessmeasures.github.io/)
+* [Fairness and machine learning](https://fairmlbook.org/)
 
 
 Miscellaneous 
