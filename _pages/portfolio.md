@@ -27,7 +27,7 @@ Virtual Talks
 * [Foundations of Data Science - Virtual Talk Series](https://sites.google.com/view/dstheory/home)
 * [TCS+](https://sites.google.com/site/plustcs/home)
 * [Online Causal Inference Seminar](https://sites.google.com/view/ocis/home)
-
+* [Mechanism Design for Social Good](https://www.md4sg.com/)
 
 Fairness
 ======
