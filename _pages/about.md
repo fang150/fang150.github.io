@@ -10,7 +10,8 @@ redirect_from:
 
 
 <!--- > I don't have many failures. If I make a cake and it fails, it becomes a pudding. -- [Life Lessons From 100-Year-Olds](https://www.youtube.com/watch?v=9AThycGCakk)] -->
-Every job is a self portrait of those who did it, Autograph your work with quality.
+Every job is a self portrait of those who did it.
+Autograph your work with quality.
 <!--- > The noblest pleasure is the joy of understanding. — Leonardo da Vinci <br /> Altruism, Service, Purpose. — [Eric Lander](https://www.youtube.com/watch?v=ajlDioK-H6U&feature=emb_title) -->
 
 
