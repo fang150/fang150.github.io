@@ -37,6 +37,7 @@ Fairness
 
 Miscellaneous 
 ======
+* [Embrace the Grind](https://jacobian.org/2021/apr/7/embrace-the-grind/)
 * [Meaning of Life](https://www.youtube.com/watch?v=ajlDioK-H6U&feature=emb_title) — [Eric Lander](https://www.broadinstitute.org/bios/eric-s-lander) 
 * [Problem Solving Strategies](https://terrytao.wordpress.com/2010/10/21/245a-problem-solving-strategies/) — [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao)
 * [Continually aim just beyond your current range](https://terrytao.wordpress.com/career-advice/continually-aim-just-beyond-your-current-range/) — [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao)
