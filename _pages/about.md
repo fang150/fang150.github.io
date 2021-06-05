@@ -19,6 +19,7 @@ Chih-Hao Fang is a Ph.D. candidate under the supervision of  Prof. [Ananth Grama
 
 News
 ======
+* Invited to serve as a reviewer of [ICPP](https://oaciss.uoregon.edu/icpp21/index.php). May, 2021.
 * Presented our work "[Identifying and Analyzing Sepsis States: A Retrospective Study on Patients with Sepsis in ICUs](https://arxiv.org/pdf/2009.10820.pdf)" at [Regenstrief Center for Healthcare Engineering (RCHE)](https://www.purdue.edu/discoverypark/rche/index.php), ([flyer](https://drive.google.com/file/d/1JSptZHn2RNB7mdPoCBbveYzh-CKX5mXc/view?usp=sharing)). Feb 24, 2021.
 * Featured article about our Distributed GPU-Accelerated Optimizer for Multiclass Classification Problems ([link](https://www.purdue.edu/research/dimensions/purdue-team-develops-powerful-new-machine/)). Feb 3, 2021.
 * Officially became a Ph.D candidate in computer science at Purdue University. November, 2020.
