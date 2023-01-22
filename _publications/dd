@@ -1,0 +1,14 @@
+---
+title: "Identifying and analyzing sepsis states: A retrospective study on patients with sepsis in ICUs"
+collection: publications
+permalink: /publication/2020-12-01-SC20
+excerpt: 'Identifying and analyzing sepsis states: A retrospective study on patients with sepsis in ICUs'
+date: 2022-09-22
+venue: 'Plos Digital Health'
+paperurl: 'https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000130'
+citation: #'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
+Sepsis is a potentially life-threatening condition that occurs when the body’s response to an infection damages its own tissues. Sepsis may be misdiagnosed because the patient is not thoroughly assessed or the symptoms are misinterpreted, which can lead to serious health complications or even death. Improved understanding of disease states, progression, severity, and clinical markers has the potential to significantly improve patient outcomes and reduce cost. In this work, we identified distinct states in sepsis in terms of their extremal clinical manifestations, also known as archetypes. We identified six states, each characterized by a unique set of pathological responses that can be mapped back to organ function(s), along with an association between patient attributes and sepsis states. We also find that these states manifest distinct comorbidity profiles before infection. Modeling sepsis progression as a Markov chain, we provide estimates of treatment actions (average amount of fluids, dosage of vasopressors, usage of mechanical ventilators) and the expected state transitions. Overall, by analyzing the relationship between pre-existing comorbidities and sepsis states, changes in clinical measurements, and treatment actions during disease progression, one can prognosticate individuals’ outcomes and devise better prevention and therapeutic strategies.
+
+[Download paper here](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000130)
+
