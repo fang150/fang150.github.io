@@ -17,8 +17,13 @@ redirect_from:
 
 <!--- > Chih-Hao Fang is a Ph.D. candidate under the supervision of  Prof. [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg) in computer science at [Purdue University](https://www.cs.purdue.edu/). His research interests are optimization, machine learning, and causal inference. Chih-Hao is recipient of Lynn Fellowship at Purdue University. Prior to joining Purdue University, Chih-Hao received his B.S in Computer Science from [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/) (2013) in Taiwan. After his graduation, Chih-Hao worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) (2015) in Taiwan, focusing on large-scale data analyses on Next-Generation Sequencing Data. -->
 
+
+I received my Ph.D. in Computer Science Department at [Purdue University](https://www.cs.purdue.edu/), where I was advised by Prof. [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg). My research interests lies in optimization, machine learning, and causal inference. Prior to joining Purdue University, Chih-Hao received his B.S in Computer Science from [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/). I also worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) for a few months before stuyding at Purdue.
+
 News
 ======
+* Ph.D Graduated, Dec 17.
+* [Paper](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000130) accepted in PLOS Digital Health, Sep '22. 
 * Invited to serve as a reviewer of [NeurIPS](https://nips.cc/Conferences/2022/CallForPapers). March, 2022.
 * Invited to serve as a reviewer of [ICML](https://icml.cc/Conferences/2022/CallForPapers). Feb, 2022.
 * Invited to serve as a reviewer of [ICPP](https://oaciss.uoregon.edu/icpp21/index.php). May, 2021.
