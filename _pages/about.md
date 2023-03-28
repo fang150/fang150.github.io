@@ -22,9 +22,10 @@ I am currently a post-doc at Purdue University. I received my Ph.D. in Computer 
 
 News
 ======
+* Invited to serve as a reviewer of [NeurIPS](https://nips.cc/). March, 2023.
 * Invited to serve as a reviewer of [ICML](https://icml.cc/). Jan, 2023.
 * Postdoctoral Research Associate at Purdue University , Jan, 2023.
-* Ph.D Graduated, Dec, 2022.
+<!--- > * Ph.D Graduated, Dec, 2022. -->
 * [Paper](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000130) accepted in PLOS Digital Health, Sep '22. 
 * Invited to serve as a reviewer of [NeurIPS](https://nips.cc/Conferences/2022/CallForPapers). March, 2022.
 * Invited to serve as a reviewer of [ICML](https://icml.cc/Conferences/2022/CallForPapers). Feb, 2022.
