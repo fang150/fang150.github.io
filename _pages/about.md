@@ -18,7 +18,25 @@ redirect_from:
 <!--- > Chih-Hao Fang is a Ph.D. candidate under the supervision of  Prof. [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg) in computer science at [Purdue University](https://www.cs.purdue.edu/). His research interests are optimization, machine learning, and causal inference. Chih-Hao is recipient of Lynn Fellowship at Purdue University. Prior to joining Purdue University, Chih-Hao received his B.S in Computer Science from [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/) (2013) in Taiwan. After his graduation, Chih-Hao worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) (2015) in Taiwan, focusing on large-scale data analyses on Next-Generation Sequencing Data. -->
 
 
-I am currently a post-doc at Purdue University. I received my Ph.D. in Computer Science Department at [Purdue University](https://www.cs.purdue.edu/), where I am advised by Prof. [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg). My research interests lies in optimization, machine learning, and causal inference. Prior to joining Purdue University, Chih-Hao received his B.S in Computer Science from [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/). I also worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) for a few months before stuyding at Purdue.
+ <!--- > I am currently a post-doc at Purdue University. I received my Ph.D. in Computer Science Department at [Purdue University](https://www.cs.purdue.edu/), where I am advised by Prof. [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg). My research interests lies in optimization, machine learning, and causal inference. Prior to joining Purdue University, Chih-Hao received his B.S in Computer Science from [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/). I also worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) for a few months before stuyding at Purdue. -->
+
+*** I am currently open to opportunities in the roles of an Applied Scientist or Machine Learning Researcher. I welcome any interested parties to connect with me on LinkedIn or via my email at chihhaofang19@gmail.com. ***
+
+Possessing a rich background in Machine Learning research, I bring to the table comprehensive expertise in Convex, Non-Convex, and Constrained Optimization, Causal Inference, and Deep Learning. My technical acumen shines in my ability to design and implement Convex and Non-Convex solvers which streamline the training process of machine learning models. In this capacity, I have accumulated vast experience with open-source platforms like Pytorch and Tensorflow, allowing me to modify and even extend their functionalities.
+
+In the healthcare industry, my work has been pivotal in utilizing constrained optimization solvers for disease phenotyping. This work has paved the way for an innovative interpretable treatment recommendation model.
+
+I've also made significant contributions in the development of a causal reinforcement learning algorithm. This unique algorithm leverages causal inference principles to forecast more accurate potential treatment outcomes.
+
+My involvement in Deep Learning has resulted in the creation of a model that outperforms the current state-of-the-art models in predicting regulatory elements.
+
+Recently, I've further refined my optimization skills by creating a constrained optimization solver. This solver can identify pivotal features corresponding to multidimensional feature and outcome spaces. Recognized by experts in the field, this represents a high-dimensional extension of L1 ridge regression, thereby enhancing the model's performance and explainability significantly.
+
+At present, my focus is on designing cutting-edge deep learning models to solve intricate Natural Language Processing problems. A notable accomplishment is the unique framework I've developed for news framing prediction. This framework adopts a graph-based approach that converts sentences into graph nodes, utilizes transformer models for embeddings, and extracts relationships from the ASER Knowledge Graph. A trained Graph Neural Network is then deployed to fine-tune transformers and accurately predict the framing of news articles.
+
+In addition to my research work, I serve as a conference reviewer for highly respected forums such as NeurIPS and ICML, contributing to the shared body of knowledge in this rapidly progressing field. In my upcoming role, I aim to utilize my specialized expertise to continue propelling the boundaries of research forward.
+
+
 
 News
 ======
