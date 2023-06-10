@@ -30,7 +30,7 @@ I've also made significant contributions in the development of a causal reinforc
 
 My involvement in Deep Learning has resulted in the creation of a model that outperforms the current state-of-the-art models in predicting regulatory elements.
 
-Recently, I've further refined my optimization skills by creating a constrained optimization solver. This solver can identify pivotal features corresponding to multidimensional feature and outcome spaces. Recognized by experts in the field, this represents a high-dimensional extension of L1 ridge regression, thereby enhancing the model's performance and explainability significantly.
+Recently, I've further refined my optimization skills by creating a constrained optimization solver. This solver can identify pivotal features corresponding to multidimensional feature and outcome spaces. Recognized by experts in the field, this represents a high-dimensional extension of L1 lasso regression, thereby enhancing the model's performance and explainability significantly.
 
 At present, my focus is on designing cutting-edge deep learning models to solve intricate Natural Language Processing problems. A notable accomplishment is the unique framework I've developed for news framing prediction. This framework adopts a graph-based approach that converts sentences into graph nodes, utilizes transformer models for embeddings, and extracts relationships from the ASER Knowledge Graph. A trained Graph Neural Network is then deployed to fine-tune transformers and accurately predict the framing of news articles.
 
