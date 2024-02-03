@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an Applied Scientist at Amazon, working on search, ranking, and pricing problems. Before that, I was a post-doc and received my Ph.D. in the Computer Science Department at [Purdue University](https://www.cs.purdue.edu/), working on research problems in optimization, machine learning, causal inference, and NLP. I received my B.S in the Computer Science Department at [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/) and worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) before moving to Purdue. I am an active reviewer and enjoy being a reviewer for NeurIPS and ICML conferences (2024,2023,2022). 
 
-***P.S. Last year, I missed the precious opportunity to serve as a reviewer at ICLR for some reasons and would appreciate the invites again!!***
+***P.S. Last year, August (2023), I missed the precious opportunity to serve as a reviewer at ICLR for some reasons and would appreciate the invites again!!***
 
 
 
