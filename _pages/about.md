@@ -17,7 +17,8 @@ redirect_from:
 
 <!--- > Chih-Hao Fang is a Ph.D. candidate under the supervision of  Prof. [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg) in computer science at [Purdue University](https://www.cs.purdue.edu/). His research interests are optimization, machine learning, and causal inference. Chih-Hao is recipient of Lynn Fellowship at Purdue University. Prior to joining Purdue University, Chih-Hao received his B.S in Computer Science from [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/) (2013) in Taiwan. After his graduation, Chih-Hao worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) (2015) in Taiwan, focusing on large-scale data analyses on Next-Generation Sequencing Data. -->
 
-I am currently an Applied Scientist at Amazon, working on problems in the domain of search, ranking, and pricing. Prior to that, I was a post-doc and received my Ph.D. in the Computer Science Department at [Purdue University](https://www.cs.purdue.edu/), working on research problems in convex/ non-convex/ constraints optimization, machine learning, causal inference, and NLP. I serve as a conference reviewer for NeurIPS and ICML, contributing to the shared body of knowledge in this rapidly progressing field. In my upcoming role, I aim to utilize my specialized expertise to continue propelling the boundaries of research forward.
+I am currently an Applied Scientist at Amazon, working on problems in the domain of search, ranking, and pricing. Prior to that, I was a post-doc and received my Ph.D. in the Computer Science Department at [Purdue University](https://www.cs.purdue.edu/), working on research problems in convex/ non-convex/ constraints optimization, machine learning, causal inference, and NLP. Prior to joining Purdue University, I received my B.S in Computer Science Department at [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/). I also worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en). I am active and enjoy serving as a reviewer for NeurIPS and ICML conferences (2024,2023,2022). P.S. Last year, I missed the precious opportunity to serve as a reviewer at ICLR for some reason and would appreciate the invites!!
+
 
 
 
@@ -45,6 +46,10 @@ In addition to my research work, I serve as a conference reviewer for highly res
 
 News
 ======
+
+* Invited to serve as a reviewer of [ICML](https://icml.cc/). Jan, 2024.
+* Paper ([link]([https://www.purdue.edu/research/dimensions/purdue-team-develops-powerful-new-machine/](https://www.sciencedirect.com/science/article/pii/S2589004224000403))) accepted to ACM BCB (Jul '23). Published in [Cell Science]([https://icml.cc/](https://www.sciencedirect.com/journal/iscience)) (Jan '24)
+* Applied Scientist at Amazon, Dec, 2023.
 * Invited to serve as a reviewer of [NeurIPS](https://nips.cc/). March, 2023.
 * Invited to serve as a reviewer of [ICML](https://icml.cc/). Jan, 2023.
 * Postdoctoral Research Associate at Purdue University , Jan, 2023.
