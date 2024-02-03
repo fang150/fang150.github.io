@@ -50,7 +50,7 @@ News
 ======
 
 * Invited to serve as a reviewer of [ICML](https://icml.cc/). Jan, 2024.
-* Paper ([link]([https://www.purdue.edu/research/dimensions/purdue-team-develops-powerful-new-machine/](https://www.sciencedirect.com/science/article/pii/S2589004224000403))) accepted to ACM BCB (Jul '23). Published in [Cell Science]([https://icml.cc/](https://www.sciencedirect.com/journal/iscience)) (Jan '24)
+* [Paper]([https://nips.cc/](https://www.sciencedirect.com/science/article/pii/S2589004224000403)) accepted to ACM BCB (Jul '23). Published in [Cell Science]([https://icml.cc/](https://www.sciencedirect.com/journal/iscience)) (Jan '24)
 * Applied Scientist at Amazon, Dec, 2023.
 * Invited to serve as a reviewer of [NeurIPS](https://nips.cc/). March, 2023.
 * Invited to serve as a reviewer of [ICML](https://icml.cc/). Jan, 2023.
