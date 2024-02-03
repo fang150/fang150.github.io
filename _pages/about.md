@@ -17,9 +17,14 @@ redirect_from:
 
 <!--- > Chih-Hao Fang is a Ph.D. candidate under the supervision of  Prof. [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg) in computer science at [Purdue University](https://www.cs.purdue.edu/). His research interests are optimization, machine learning, and causal inference. Chih-Hao is recipient of Lynn Fellowship at Purdue University. Prior to joining Purdue University, Chih-Hao received his B.S in Computer Science from [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/) (2013) in Taiwan. After his graduation, Chih-Hao worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) (2015) in Taiwan, focusing on large-scale data analyses on Next-Generation Sequencing Data. -->
 
+I am currently an Applied Scientist at Amazon, working on problems in the domain of search, ranking, and pricing. Prior to that, I was a post-doc and received my Ph.D. in the Computer Science Department at [Purdue University](https://www.cs.purdue.edu/), working on research problems in convex/ non-convex/ constraints optimization, machine learning, causal inference, and NLP. I serve as a conference reviewer for NeurIPS and ICML, contributing to the shared body of knowledge in this rapidly progressing field. In my upcoming role, I aim to utilize my specialized expertise to continue propelling the boundaries of research forward.
+
+
 
  <!--- > I am currently a post-doc at Purdue University. I received my Ph.D. in Computer Science Department at [Purdue University](https://www.cs.purdue.edu/), where I am advised by Prof. [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg). My research interests lies in optimization, machine learning, and causal inference. Prior to joining Purdue University, Chih-Hao received his B.S in Computer Science from [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/). I also worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) for a few months before stuyding at Purdue. -->
 
+
+<!--- > 
 *** I am currently open to opportunities in the roles of an Applied Scientist or Machine Learning Researcher. I welcome any interested parties to connect with me on LinkedIn or via my email at chihhaofang19@gmail.com. ***
 
 Possessing a rich background in Machine Learning research, I bring to the table comprehensive expertise in Convex, Non-Convex, and Constrained Optimization, Causal Inference, and Deep Learning. My technical acumen shines in my ability to design and implement Convex and Non-Convex solvers which streamline the training process of machine learning models. In this capacity, I have accumulated vast experience with open-source platforms like Pytorch and Tensorflow, allowing me to modify and even extend their functionalities.
@@ -36,7 +41,7 @@ At present, my focus is on designing cutting-edge deep learning models to solve 
 
 In addition to my research work, I serve as a conference reviewer for highly respected forums such as NeurIPS and ICML, contributing to the shared body of knowledge in this rapidly progressing field. In my upcoming role, I aim to utilize my specialized expertise to continue propelling the boundaries of research forward.
 
-
+-->
 
 News
 ======
