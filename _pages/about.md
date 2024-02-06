@@ -50,7 +50,7 @@ News
 ======
 
 * Happy to serve as a reviewer at [ICML](https://icml.cc/). Jan, 2024.
-* [Paper]([https://nips.cc/](https://www.sciencedirect.com/science/article/pii/S2589004224000403)) accepted to ACM BCB (Jul '23). Published in [Cell Science]([https://icml.cc/](https://www.sciencedirect.com/journal/iscience)). Jan, 2024.
+* [Paper]([https://nips.cc/](https://www.sciencedirect.com/science/article/pii/S2589004224000403)) accepted to ACM BCB (Jul '23). Published in [Cell iScience]([https://icml.cc/](https://www.sciencedirect.com/journal/iscience)). Jan, 2024.
 * Applied Scientist at Amazon, Dec, 2023.
 * Accepted and prestented a poster on GNN model for News framing prediction task at ([The New Directions in Analyzing Text as Data (TADA)]([https://www.sciencedirect.com/journal/iscience](https://tada2023.org/)), Nov, 2023.
 * Invited to serve as a reviewer of [NeurIPS](https://nips.cc/). March, 2023.
