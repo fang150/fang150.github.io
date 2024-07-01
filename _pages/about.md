@@ -50,6 +50,7 @@ News
 ======
 
 * Honored to serve as a reviewer at [Frontiers in Medicine](https://www.frontiersin.org/journals/medicine),  June, 2024.
+* Attended [Penn Causal Inference Summer Institute](https://www.dbeicoe.med.upenn.edu/cci/2024-penn-causal-inference-summer-institute), June, 2024
 * Thrilled to be selected as the final winner (selected from 234 teams out of 22 countries) at The IES International Hackathon at Amazon, May, 2024.
 * Grateful to be a poster judge at [American Causal Inference Conference (ACIC)](https://sci-info.org/annual-meeting/), May, 2024. 
 * Happy to serve as a reviewer at Amazon Machine Learning Conference (AMLC), May, 2024.
