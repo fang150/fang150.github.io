@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an Applied Scientist at Amazon, working on search, ranking, pricing, and LLM problems. Before that, I was a post-doc and received my Ph.D. in the Computer Science Department at [Purdue University](https://www.cs.purdue.edu/), working on research problems in optimization, machine learning, causal inference, and NLP. I received my B.S in the Computer Science Department at [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/) and worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) before moving to Purdue. I am an active reviewer and enjoy being a reviewer for NeurIPS and ICML conferences (2024, 2023, 2022). 
 
-***P.S. Last year, August (2023), I missed the precious opportunity to serve as a reviewer at ICLR for some reasons and would appreciate the invites again!!***
+<!--- >  ***P.S. Last year, August (2023), I missed the precious opportunity to serve as a reviewer at ICLR for some reasons and would appreciate the invites again!!*** -->
 
 
 
@@ -48,7 +48,12 @@ In addition to my research work, I serve as a conference reviewer for highly res
 
 News
 ======
-
+* Honored to serve as a reviewer of [Frontiers in Medicine]([[https://icml.cc/](https://neurips.cc/](https://www.frontiersin.org/journals/medicine)) , June, 2024.
+* Thrilled to be selected as the final winner (selected from 234 teams out of 22 countries) at THE IES INTERNATIONAL HACKATHON at Amazon, May, 2024.
+* Grateful to be a poster judge at [AMERICAN CAUSAL INFERENCE CONFERENCE (ACIC)]([https://sci-info.org/annual-meeting/) , May, 2024.
+* Happy to serve as a reviewer at Amazon Machine Learning Conference (AMLC), May, 2024.
+* Happy to serve as a reviewer at [Neurips]([https://icml.cc/](https://neurips.cc/). May, 2024.
+* One Paper Submitted to Amazon Machine Learning Conference (AMLC), May, 2024.
 * Happy to serve as a reviewer at [ICML](https://icml.cc/). Jan, 2024.
 * [Paper]([https://nips.cc/](https://www.sciencedirect.com/science/article/pii/S2589004224000403)) accepted to ACM BCB (Jul '23). Published in [Cell iScience]([https://icml.cc/](https://www.sciencedirect.com/journal/iscience)). Jan, 2024.
 * Applied Scientist at Amazon, Dec, 2023.
