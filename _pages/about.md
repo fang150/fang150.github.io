@@ -51,9 +51,9 @@ News
 
 * Honored to serve as a reviewer at [Frontiers in Medicine]([[https://sci-info.org/annual-meeting](https://www.frontiersin.org/journals/medicine)
 * Thrilled to be selected as the final winner (selected from 234 teams out of 22 countries) at THE IES INTERNATIONAL HACKATHON at Amazon, May, 2024.
-* Grateful to be a poster judge at [AMERICAN CAUSAL INFERENCE CONFERENCE (ACIC)]([https://sci-info.org/annual-meeting/) , May, 2024.
+* Grateful to be a poster judge at [AMERICAN CAUSAL INFERENCE CONFERENCE (ACIC)]([https://neurips.cc/](https://sci-info.org/annual-meeting/)), May, 2024. 
 * Happy to serve as a reviewer at Amazon Machine Learning Conference (AMLC), May, 2024.
-* Happy to serve as a reviewer at [Neurips]([https://icml.cc/](https://neurips.cc/). May, 2024.
+* Happy to serve as a reviewer at [Neurips](https://neurips.cc/). May, 2024.
 * One Paper Submitted to Amazon Machine Learning Conference (AMLC), May, 2024.
 * Happy to serve as a reviewer at [ICML](https://icml.cc/). Jan, 2024.
 * [Paper]([https://nips.cc/](https://www.sciencedirect.com/science/article/pii/S2589004224000403)) accepted to ACM BCB (Jul '23). Published in [Cell iScience]([https://icml.cc/](https://www.sciencedirect.com/journal/iscience)). Jan, 2024.
