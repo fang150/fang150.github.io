@@ -80,5 +80,6 @@ Stuff I Feel Fun
 
 Humanity
 ======
+* [Humble And Kind.](https://www.youtube.com/watch?v=awzNHuGqoMc)
 * [Father forgets.](https://getswitchedon.com/assets/fatherforgets.pdf)
 
