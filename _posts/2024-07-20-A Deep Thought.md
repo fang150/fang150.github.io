@@ -1,6 +1,6 @@
 ---
 title: "A Deep Thought"
-date: 2024-07-18
+date: 2024-07-20
 tags: [Life]
 categories: [life]
 excerpt: ""
