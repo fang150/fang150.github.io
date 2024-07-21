@@ -1,5 +1,5 @@
 ---
-title: "A Deep Thought"
+title: "A Provoking Thought"
 date: 2024-07-20
 tags: [Life]
 categories: [life]
