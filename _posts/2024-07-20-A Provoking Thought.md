@@ -7,4 +7,4 @@ excerpt: ""
 mathjax: "true"
 ---
 
-One has a pimple today, and it's okay! Life is still gorgeous and incredible! Happiness is a choice, and pimples go away, so let's take a deep breath and head out to grab some delicious gelato now.
+One has a pimple today, and it's okay! Life is still gorgeous and incredible! Happiness is a choice, and pimples go away, so let's take a deep breath and head out to grab some delicious gelato now. 
