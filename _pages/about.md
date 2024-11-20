@@ -49,7 +49,7 @@ In addition to my research work, I serve as a conference reviewer for highly res
 News
 ======
 * Honored to be nominated as a full member of [Sigma Xi](https://www.sigmaxi.org/), Nov 2024.
-* Happy that our paper on the Pricing Model (flatter minimum)  was accepted in [Amazon Machine Learning Conference (AMLC) Pricing Workshop]((https://www.amazon.science/)), Oct 2024.
+* Happy to announce that our paper on the Pricing Model (flatter minimum)  was accepted in [Amazon Machine Learning Conference (AMLC) Pricing Workshop]((https://www.amazon.science/)), Oct 2024.
 * Grateful to be invited to serve as a reviewer at [AISTATS]([https://aistats.org/]) [Apologies due to time constraints, 0 biddings], Oct, 2024.
 * Grateful to be invited to serve as a reviewer at [ICLR](https://iclr.cc/), August, 2024.
 * Grateful to be invited to serve as a Program Committee at [AAAI](https://aaai.org/conference/aaai/aaai-25/), July, 2024.
