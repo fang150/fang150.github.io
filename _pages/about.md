@@ -17,7 +17,7 @@ redirect_from:
 
 <!--- > Chih-Hao Fang is a Ph.D. candidate under the supervision of  Prof. [Ananth Grama](https://www.cs.purdue.edu/people/faculty/ayg) in computer science at [Purdue University](https://www.cs.purdue.edu/). His research interests are optimization, machine learning, and causal inference. Chih-Hao is recipient of Lynn Fellowship at Purdue University. Prior to joining Purdue University, Chih-Hao received his B.S in Computer Science from [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/) (2013) in Taiwan. After his graduation, Chih-Hao worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) (2015) in Taiwan, focusing on large-scale data analyses on Next-Generation Sequencing Data. -->
 
-I am currently an Applied Scientist at Amazon, working on search, ranking, pricing, and LLM problems. Before that, I was a post-doc and received my Ph.D. in the Computer Science Department at [Purdue University](https://www.cs.purdue.edu/), working on research problems in optimization, machine learning, causal inference, and NLP. I received my B.S in the Computer Science Department at [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/) and worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) before moving to Purdue. I am an active reviewer and enjoy being a reviewer for NeurIPS and ICML conferences (2024, 2023, 2022). 
+I am currently an Applied Scientist at Amazon, working on search, ranking, pricing, and LLM problems. Before that, I was a post-doc and received my Ph.D. in the Computer Science Department at [Purdue University](https://www.cs.purdue.edu/), working on research problems in optimization, machine learning, causal inference, and NLP. I received my B.S in the Computer Science Department at [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/) and worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) before moving to Purdue. Coming from an underrepresented group, I feel very fortunate and privileged to have been guided by amazing people. Although I don’t consider myself a successful person, I believe I may be able to help those in need. Please don’t hesitate to reach out to see if I may help.
 
 <!--- >  ***P.S. Last year, August (2023), I missed the precious opportunity to serve as a reviewer at ICLR for some reasons and would appreciate the invites again!!*** -->
 
@@ -48,6 +48,7 @@ In addition to my research work, I serve as a conference reviewer for highly res
 
 News
 ======
+* Invited to be a reviewer at [ICML 2025](https://www.sigmaxi.org/), Dec 2024.
 * Honored to be nominated as a full member of [Sigma Xi](https://www.sigmaxi.org/), Nov 2024.
 * Happy to announce that our paper on the Pricing Model (flatter minimum)  was accepted in [Amazon Machine Learning Conference (AMLC) Pricing Workshop](https://www.amazon.science/), Oct 2024.
 * Grateful to be invited to serve as a reviewer at [AISTATS](https://aistats.org/) [Apologies due to time constraints, 0 biddings], Oct, 2024.
