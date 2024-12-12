@@ -20,7 +20,7 @@ redirect_from:
 I am currently an Applied Scientist at Amazon, working on search, ranking, pricing, and LLM problems. Before that, I was a post-doc and received my Ph.D. in the Computer Science Department at [Purdue University](https://www.cs.purdue.edu/), working on research problems in optimization, machine learning, causal inference, and NLP. I received my B.S in the Computer Science Department at [National Tsing Hua University](http://nthu-en.web.nthu.edu.tw/) and worked as a Research Assistant at [Academia Sinica](https://www.sinica.edu.tw/en) before moving to Purdue. 
 
 
-** Coming from an underrepresented group, I feel incredibly fortunate and privileged to have been guided by amazing people. While I don’t consider myself to be particularly useful, I believe I can still offer help to those in need. Please don’t hesitate to reach out to me [here] (https://docs.google.com/forms/d/e/1FAIpQLSffyt6Qw5JSDRHGceumhkaNgaO7m0YoS8e2R8cAIP6jTHBYTg/viewform?usp=sharing) to see if I may help.
+** Coming from an underrepresented group, I feel incredibly fortunate and privileged to have been guided by amazing people. While I don’t consider myself to be particularly useful, I believe I can still offer help to those in need. Please don’t hesitate to reach out to me [here](https://docs.google.com/forms/d/e/1FAIpQLSffyt6Qw5JSDRHGceumhkaNgaO7m0YoS8e2R8cAIP6jTHBYTg/viewform?usp=sharing) to see if I may help.
 
 
 <!--- >  ***P.S. Last year, August (2023), I missed the precious opportunity to serve as a reviewer at ICLR for some reasons and would appreciate the invites again!!*** -->
