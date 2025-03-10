@@ -7,7 +7,7 @@ excerpt: ""
 mathjax: "true"
 ---
 
-The following is an article I wrote and shared with 馮達旋 (Da-Hsuang Feng), who was the Vice President of NTHU at the time when I was in college in Taiwan. While I now recognize that my past perspective was somewhat narrow and arrogant, it still inspires me to some extent whenever I come across it on Facebook. I am noting it down here for my future self. (A direct translation of this article by ChatGPT is included at the end.)
+The following is an article I wrote and shared with 馮達旋 (Da-Hsuang Feng), who was the Vice President of NTHU at the time when I was in college in Taiwan. While I think that my past perspective was somewhat narrow and arrogant, it nevertheless inspires me to some extent as it popped up on my feed in Facebook yersterday. I am noting it down here for my future self. (A direct translation of this article by ChatGPT is included at the end.)
 
 ..........................................
 馮達旋
