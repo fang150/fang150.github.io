@@ -52,8 +52,8 @@ In addition to my research work, I serve as a conference reviewer for highly res
 
 News
 ======
-* An [old article] (https://fang150.github.io/life/Old-Article/) old article of mine in 2013 popped up in my Facebook feed, so I’m noting it down here as a personal time capsule, March 2025.
-* Grateful to be invited to serve as a reviewer at [Neurips 2025] (https://neurips.cc/), Feb 2025.
+* An [old article](https://fang150.github.io/life/Old-Article/) of mine in 2013 popped up in my Facebook feed, so I’m noting it down here as a personal time capsule, March 2025.
+* Grateful to be invited to serve as a reviewer at [Neurips 2025](https://neurips.cc/), Feb 2025.
 * Grateful to be invited to serve as a reviewer at [FAccT 2025](https://facctconference.org/), Dec 2024.
 * Grateful to be invited to serve as at [ICML 2025](https://icml.cc/), Dec 2024.
 * Honored to be nominated as a full member of [Sigma Xi](https://www.sigmaxi.org/), Nov 2024.
