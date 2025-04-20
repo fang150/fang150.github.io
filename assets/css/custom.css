@@ -1,0 +1,18 @@
+figure.two-column {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin: auto;
+  max-width: 900px;
+}
+
+figure.two-column img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+figure.two-column img:hover {
+  transform: scale(1.02);
+}
