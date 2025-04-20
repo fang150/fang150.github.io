@@ -25,7 +25,7 @@ maria-gallery:
     alt: "Maria's paw"
 ---
 
-Meet **Maria**, my golden retriever — born on September 4th, 2024 — beloved family member and part-time chaos agent.ss
+Meet **Maria**, my golden retriever — born on September 4th, 2024 — beloved family member and part-time chaos agent
 
 ## 🐶 A Few of Her Favorite Things:
 - All of my foods
