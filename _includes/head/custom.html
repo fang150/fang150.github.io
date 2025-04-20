@@ -36,3 +36,54 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <!-- end custom head snippets -->
+
+
+
+<!-- SEO Meta Tags -->
+<title>{{ site.title }} | {{ site.description }}</title>
+<meta name="description" content="{{ site.description }}">
+<meta name="keywords" content="Chih-Hao Fang, machine learning, causal inference, LLMs, pricing, optimization, healthcare AI, NeurIPS, ICML, ICLR, FAccT, Purdue, Harvard, Amazon">
+<meta name="author" content="Chih-Hao Fang">
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ site.url }}">
+<meta property="og:title" content="{{ site.title }} | {{ site.description }}">
+<meta property="og:description" content="{{ site.description }}">
+<meta property="og:image" content="{{ site.og_image | default: '/assets/CHF2.jpg' }}">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:url" content="{{ site.url }}">
+<meta name="twitter:title" content="{{ site.title }}">
+<meta name="twitter:description" content="{{ site.description }}">
+<meta name="twitter:image" content="{{ site.og_image | default: '/assets/CHF2.jpg' }}">
+
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Chih-Hao Fang",
+  "url": "https://fang150.github.io",
+  "sameAs": [
+    "https://scholar.google.com/citations?user=sdllvWcAAAAJ&hl=en",
+    "https://twitter.com/ChihHaoFang1",
+    "https://github.com/fang150",
+    "https://www.researchgate.net/profile/Chih_Hao_Fang"
+  ],
+  "jobTitle": "Applied Scientist",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Amazon"
+  },
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "Purdue University"
+  }
+}
+</script>
+
+
