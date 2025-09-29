@@ -117,6 +117,12 @@ author:
   youtube          :
   wikipedia        :
 
+  links:
+    - label: "Loop"
+      icon: "fas fa-link"
+      url: "https://loop.frontiersin.org/people/2773659/overview"
+
+
 
 # Reading Files
 include:
