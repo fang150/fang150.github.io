@@ -55,8 +55,7 @@ In addition to my research work, I serve as a conference reviewer for highly res
 
 News
 ======
-* Happy to join as a Lead AI/ML Engineer at Optum AI, May 2025.
-
+* Happy to join as a Lead AI/ML Engineer at Optum AI [See our Mission & Values](https://www.unitedhealthgroup.com/uhg/mission-values.html), May 2025.
 * Grateful to be invited to serve as a reviewer at [Frontiers in Cellular and Infection Microbiology](https://www.frontiersin.org/journals/cellular-and-infection-microbiology), March 2025.
 * An [old article](https://fang150.github.io/life/Old-Article/) of mine in 2013 popped up in my Facebook feed, so I’m noting it down here as a personal time capsule, March 2025.
 * Grateful to be invited to serve as a reviewer at [Neurips 2025](https://neurips.cc/), Feb 2025.
