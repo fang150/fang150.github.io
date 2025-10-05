@@ -56,7 +56,7 @@ In addition to my research work, I serve as a conference reviewer for highly res
 News
 ======
 * Reviewer at [ICLR](https://iclr.cc/), Sep 2025.
-* Volunteer for [St. Jude Children's Research Hospital](https://www.stjude.org/)at [St. Jude Walk, Austin TX](https://fundraising.stjude.org/site/TR/Walk/Walk?pg=entry&fr_id=160922) to raise funds for reducing costs for children with cancer, Sep 2025.
+* Volunteer for [St. Jude Children's Research Hospital](https://www.stjude.org/) at  [St. Jude Walk, Austin TX](https://fundraising.stjude.org/site/TR/Walk/Walk?pg=entry&fr_id=160922) to raise funds for reducing costs for children with cancer, Sep 2025.
 * Reviewer at [Frontiers in Microbiology
 ](https://www.frontiersin.org/journals/microbiology), Sep 2025.
 * Presenter at [DevDays 100x AI (an internal conference at UHG)](https://www.unitedhealthgroup.com/uhg/mission-values.html) on LLM-as-a-Judge, Sep, 2025.
