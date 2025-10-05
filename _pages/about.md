@@ -56,15 +56,13 @@ In addition to my research work, I serve as a conference reviewer for highly res
 News
 ======
 * Reviewer at [ICLR](https://iclr.cc/), Sep 2025.
+* Volunteer for [St. Jude Children's Research Hospital](https://www.stjude.org/)at [St. Jude Walk, Austin TX](https://fundraising.stjude.org/site/TR/Walk/Walk?pg=entry&fr_id=160922) to raise funds for reducing costs for children with cancer, Sep 2025.
 * Reviewer at [Frontiers in Microbiology
 ](https://www.frontiersin.org/journals/microbiology), Sep 2025.
-* Presenter at [DevDays 100x AI, an internal conference at UHG](https://www.unitedhealthgroup.com/uhg/mission-values.html) on LLM-as-a-Judge, Sep, 2025.
+* Presenter at [DevDays 100x AI (an internal conference at UHG)](https://www.unitedhealthgroup.com/uhg/mission-values.html) on LLM-as-a-Judge, Sep, 2025.
 * Reviewer at [Frontiers in Immunology
 ](https://www.frontiersin.org/journals/immunology), Sep 2025.
-
-
-* My dog (kid) Maria's 1st Birthday! [Frontiers in Immunology
-](https://www.frontiersin.org/journals/immunology), Sep 2025.
+* My dog Maria's 1st Birthday! [JEPG](https://fang150.github.io/images/maria_birthday.jpeg), Sep 2025.
 * Emergency Reviewer at [AAAI](https://aaai.org/conference/aaai/aaai-26/), Sep, 2025.
 * Reviewer at [AISTATS](https://aistats.org/), Aug, 2025.
 * Reviewer at [Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology?utm_source=google&utm_medium=paidsearch&utm_content&utm_campaign=jsub_jnlprom_08-25_fphar_en_nat_fois-reg13&gad_source=1&gad_campaignid=22903574620&gbraid=0AAAAAC_sJ7lX71kTOIVKZxWRV6JKOedBF&gclid=CjwKCAjwi4PHBhA-EiwAnjTHueNY4kJdmgbOibXStm2CfTZAeeLaKc9k-515QYn0zm7_SYvlMxxPWRoCIMEQAvD_BwE), Aug 2025.
