@@ -24,4 +24,5 @@ Meet **Maria**, my golden retriever — born on September 4th, 2024 — beloved 
   <img src="/images/maria5.jpg" alt="Maria's zoomies" style="width: 48%;">
   <img src="/images/maria6.jpg" alt="Maria watching me eat" style="width: 48%;">
   <img src="/images/pawn.jpg" alt="Maria's paw" style="width: 48%;">
+  <img src="/images/maria_birthday.jpeg" alt="Maria's paw" style="width: 48%;">
 </div>
