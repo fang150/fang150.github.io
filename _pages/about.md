@@ -77,9 +77,9 @@ News
 ](https://www.frontiersin.org/journals/pharmacology?utm_source=google&utm_medium=paidsearch&utm_content&utm_campaign=jsub_jnlprom_08-25_fphar_en_nat_fois-reg13&gad_source=1&gad_campaignid=22903574620&gbraid=0AAAAAC_sJ7lX71kTOIVKZxWRV6JKOedBF&gclid=CjwKCAjwi4PHBhA-EiwAnjTHueNY4kJdmgbOibXStm2CfTZAeeLaKc9k-515QYn0zm7_SYvlMxxPWRoCIMEQAvD_BwE), March 2025.
 * Reviewer at [Frontiers in Cellular and Infection Microbiology](https://www.frontiersin.org/journals/cellular-and-infection-microbiology), March 2025.
 * An [old article](https://fang150.github.io/life/Old-Article/) of mine in 2013 popped up in my Facebook feed, so I’m noting it down here as a personal time capsule, March 2025.
-* Grateful to be invited to serve as a reviewer at [Neurips 2025](https://neurips.cc/), Feb 2025.
-* Grateful to be invited to serve as a reviewer at [FAccT 2025](https://facctconference.org/), Dec 2024.
-* Grateful to be invited to serve as at [ICML 2025](https://icml.cc/), Dec 2024.
+* Reviewer at [Neurips 2025](https://neurips.cc/), Feb 2025.
+* Reviewer at [FAccT 2025](https://facctconference.org/), Dec 2024.
+* Reviewer at [ICML 2025](https://icml.cc/), Dec 2024.
 * Honored to be nominated as a full member of [Sigma Xi](https://www.sigmaxi.org/), Nov 2024.
 * Happy to announce that our paper on the Pricing Model was accepted in [Amazon Machine Learning Conference (AMLC) Pricing Workshop](https://www.amazon.science/), Oct 2024. ( **We showed that via pretraining from multiple distributions of samples, the pricing model can reach [flatter minima](https://arxiv.org/abs/1609.04836), via measuring the flatness of multimillion parameters loss landscape using [constrained LBFGS](https://dl.acm.org/doi/10.1145/279232.279236) , which means better generalization, and most importantly, setting/recommend the price of a product more accurately :)** )
 * Grateful to be invited to serve as a reviewer at [AISTATS](https://aistats.org/) [Apologies due to time constraints, 0 biddings], Oct, 2024.
