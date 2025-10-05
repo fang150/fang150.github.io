@@ -84,44 +84,17 @@ author:
   avatar           : "CHF2.jpg"
   bio              : "Leat AI/ML Engineer @ Optum AI | Ex-Applied Scientist @ Amazon | Full Member @ Sigma Xi | Purdue University. "
   location         : "Austin, TX"
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sdllvWcAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Chih_Hao_Fang"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  researchgate     : "https://www.researchgate.net/profile/Chih_Hao_Fang"
   loop             : "https://loop.frontiersin.org/people/2773659/overview"
   github           : "fang150"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "https://loop.frontiersin.org/people/2773659/overview"
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  linkedin         : "https://www.linkedin.com/in/chih-hao-fang/"   # <-- put your real LinkedIn here
   twitter          : "ChihHaoFang1"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
   links:
     - label: "Loop"
-      icon: "fas fa-link"
+      icon: "fas fa-fw fa-link"   # <-- add fa-fw for consistent width
       url: "https://loop.frontiersin.org/people/2773659/overview"
-
 
 
 # Reading Files
