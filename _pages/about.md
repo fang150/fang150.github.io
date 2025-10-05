@@ -66,8 +66,6 @@ News
 * Reviewer at [Frontiers in Pharmacology](https://www.frontiersin.org/journals/pharmacology?utm_source=google&utm_medium=paidsearch&utm_content&utm_campaign=jsub_jnlprom_08-25_fphar_en_nat_fois-reg13&gad_source=1&gad_campaignid=22903574620&gbraid=0AAAAAC_sJ7lX71kTOIVKZxWRV6JKOedBF&gclid=CjwKCAjwi4PHBhA-EiwAnjTHueNY4kJdmgbOibXStm2CfTZAeeLaKc9k-515QYn0zm7_SYvlMxxPWRoCIMEQAvD_BwE), Aug 2025.
 * Reviewer at [Frontiers in Pediatrics
 ](https://www.frontiersin.org/journals/pediatrics), Jul 2025.
-* Reviewer at [Frontiers in Pediatrics
-](https://www.frontiersin.org/journals/pediatrics), Jul 2025.
 * Reviewer at [Frontiers in Neurology
 ](https://www.frontiersin.org/journals/neurology), May 2025.
 * Reviewer at [Frontiers in Microbiology
