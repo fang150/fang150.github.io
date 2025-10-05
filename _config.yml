@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chih-Hao Fang"
   avatar           : "CHF2.jpg"
-  bio              : "Leat AI/ML. Engineer @ Optum AI | Ex-Applied Scientist @ Amazon | Full Member @ Sigma Xi | Purdue University. "
+  bio              : "Leat AI/ML.. Engineer @ Optum AI | Ex-Applied Scientist @ Amazon | Full Member @ Sigma Xi | Purdue University. "
   location         : "Austin, TX"
   googlescholar    : "https://scholar.google.com/citations?user=sdllvWcAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Chih_Hao_Fang"
@@ -90,11 +90,6 @@ author:
   github           : "fang150"
   linkedin         : "https://www.linkedin.com/in/chih-hao-fang-266013118/"   # <-- put your real LinkedIn here
   twitter          : "ChihHaoFang1"
-
-  links:
-    - label: "Loop"
-      icon: "fas fa-fw fa-link"   # <-- add fa-fw for consistent width
-      url: "https://loop.frontiersin.org/people/2773659/overview"
 
 
 # Reading Files
