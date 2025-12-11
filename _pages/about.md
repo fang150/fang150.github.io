@@ -55,7 +55,7 @@ In addition to my research work, I serve as a conference reviewer for highly res
 
 News
 ======
-* Reviewer at [ACM FaccT](https://facctconference.org/2026/cfp.html), Dec 2025.
+* Reviewer at [ACM FaccT 2026](https://facctconference.org/2026/cfp.html), Dec 2025.
 * Reviewer at [AMIA 2026 Amplify Informatics Conference
 ](https://amia.org/education-events/amplify-informatics-conference?utm_term=&utm_campaign=Education+%26+Events+%7C+Dynamic+Search+Ads&utm_source=adwords&utm_medium=ppc&hsa_acc=3000426498&hsa_cam=21839415743&hsa_grp=170181623438&hsa_ad=718381406342&hsa_src=g&hsa_tgt=dsa-2376413329636&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=21839415743&gbraid=0AAAAADLq9-9VEcWYxHwyBf-jaXGkt4oNF&gclid=Cj0KCQiA9OnJBhD-ARIsAPV51xMS7keaMQhGjoMWKcWlexV99z0iKu-olhUxmRYn_4Q2W00W8vkWXF8aAia1EALw_wcB), Dec 2025.
 * Reviewer at [Frontiers in Medical Technology
