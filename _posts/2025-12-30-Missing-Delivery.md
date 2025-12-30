@@ -19,22 +19,22 @@ There was a doordash mis delivery today, the context was that the doordasher cou
 ">
 
   <figure style="margin: 0;">
-    <figcaption style="margin: 0 0 8px 0; font-weight: 700;">Pic 1</figcaption>
+    <figcaption style="margin: 0 0 8px 0; font-weight: 700; font-size: 1.2em; line-height: 1.2;">Pic 1</figcaption>
     <img src="/images/doordash_1.PNG" alt="Pic 1" style="width: 100%; height: auto; display: block;">
   </figure>
 
   <figure style="margin: 0;">
-    <figcaption style="margin: 0 0 8px 0; font-weight: 700;">Pic 2</figcaption>
+    <figcaption style="margin: 0 0 8px 0; font-weight: 700; font-size: 1.2em; line-height: 1.2;">Pic 2</figcaption>
     <img src="/images/doordash_2.PNG" alt="Pic 2" style="width: 100%; height: auto; display: block;">
   </figure>
 
   <figure style="margin: 0;">
-    <figcaption style="margin: 0 0 8px 0; font-weight: 700;">Pic 3</figcaption>
+    <figcaption style="margin: 0 0 8px 0; font-weight: 700; font-size: 1.2em; line-height: 1.2;">Pic 3</figcaption>
     <img src="/images/doordash_3.PNG" alt="Pic 3" style="width: 100%; height: auto; display: block;">
   </figure>
 
   <figure style="margin: 0;">
-    <figcaption style="margin: 0 0 8px 0; font-weight: 700;">Pic 4</figcaption>
+    <figcaption style="margin: 0 0 8px 0; font-weight: 700; font-size: 1.2em; line-height: 1.2;">Pic 4</figcaption>
     <img src="/images/doordash_4.PNG" alt="Pic 4" style="width: 100%; height: auto; display: block;">
   </figure>
 
