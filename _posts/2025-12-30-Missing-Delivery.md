@@ -8,6 +8,8 @@ excerpt: ""
 mathjax: "true"
 ---
 
+
+
 There was a doordash mis delivery today, the context was that the doordasher couldn't find my address exactly so he/she just randomly took a picture nearby my neighbor and put my items to my neighbor's house and claimed the success of delivery. Below was the conversation, and I think I did the right thing (feel free to let me know  if I could have been done better):
 
 <div style="
