@@ -1,5 +1,5 @@
 ---
-title: "Honoring Delivery"
+title: "Honoring a USPS Supervisor"
 date: 2025-12-30
 tags: [Life]
 categories: [life]
