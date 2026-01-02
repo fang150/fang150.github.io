@@ -1,6 +1,6 @@
 ---
-title: "Serendipity"
-date: 2026-01-02
+title: "Honoring a Supervisor"
+date: 2026-12-31
 tags: [Life]
 categories: [life]
 excerpt: ""
