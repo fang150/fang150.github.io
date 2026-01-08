@@ -1,6 +1,6 @@
 ---
 title: "Honoring a Supervisor"
-date: 2026-12-31
+date: 2025-12-31
 tags: [Life]
 categories: [life]
 excerpt: ""
