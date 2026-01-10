@@ -53,7 +53,7 @@ Get tickets for your favorite artists
 Industry disruptors and soul deconstructors
 And smooth-talking hucksters out glad-handing each other
 And the voices that implore, "You should be doing more"
-To you, I can admit that I’m just too soft for all of it
+To you, I can admit that I’m just too soft for all of it     <----disagree---->
 Ooh
 
 [Chorus]
