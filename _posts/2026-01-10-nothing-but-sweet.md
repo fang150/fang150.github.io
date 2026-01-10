@@ -47,13 +47,7 @@ All that you ever wanted from me was nothin'
 See upcoming pop shows
 Get tickets for your favorite artists
 
-You might also like
-Fortnight
-Taylor Swift
-So Long, London
-Taylor Swift
-Down Bad
-Taylor Swift
+
 
 [Bridge]
 Industry disruptors and soul deconstructors
