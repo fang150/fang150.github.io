@@ -1,5 +1,5 @@
 ---
-title: "Maria got her second period."
+title: "Maria gets her second period."
 date: 2026-01-17
 tags: [Life]
 categories: [life]
