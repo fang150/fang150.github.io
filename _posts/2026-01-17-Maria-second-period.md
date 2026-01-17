@@ -14,12 +14,12 @@ Marilla Cuthbert: ~~Anne~~ Maria! You are not dying. You're in your womanly flow
 <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-items: start;">
   <figure style="margin: 0;">
     <figcaption style="margin: 0 0 8px 0; font-weight: 700;">Pic 1</figcaption>
-    <img src="/images/Maria_period_1.PNG" alt="Pic 1" style="width: 100%; height: auto; display: block;">
+    <img src="/images//Maria_period_1.png" alt="Pic 1" style="width: 100%; height: auto; display: block;">
   </figure>
 
   <figure style="margin: 0;">
     <figcaption style="margin: 0 0 8px 0; font-weight: 700;"></figcaption>
-    <img src="/images/Maria_period_2.PNG" alt="Pic 2" style="width: 100%; height: auto; display: block;">
+    <img src="/images/Maria_period_2.png" alt="Pic 2" style="width: 100%; height: auto; display: block;">
   </figure>
 </div>
 
